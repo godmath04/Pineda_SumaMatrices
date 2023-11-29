@@ -76,6 +76,7 @@ int main()
     }
     else
     {
+        printf("\n");
         printf("No se pueden sumar pues sus dimensiones son diferentes. \n");
     }
 
